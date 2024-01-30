@@ -1,4 +1,6 @@
-#####
+##### Tek_pack v2 olmadan çalışmaz , lütfen dosya düzenine dikkat ediniz
+#### TEK_Pack/tek_pack_v2 şekilde dosya düzeni ayarlayınız
+## ana dosya düzeni klasör/TKBK_Ders_Notu v5.1.py , TEK_Pack/tek_pack_v2 şeklindedir
 import time
 import tkinter as tk
 from tkinter import ttk, messagebox, scrolledtext
